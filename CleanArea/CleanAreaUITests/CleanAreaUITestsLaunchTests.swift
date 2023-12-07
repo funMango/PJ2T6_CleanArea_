@@ -1,13 +1,13 @@
 //
-//  ClenaAreaUITestsLaunchTests.swift
-//  ClenaAreaUITests
+//  CleanAreaUITestsLaunchTests.swift
+//  CleanAreaUITests
 //
 //  Created by 이민호 on 12/7/23.
 //
 
 import XCTest
 
-final class ClenaAreaUITestsLaunchTests: XCTestCase {
+final class CleanAreaUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

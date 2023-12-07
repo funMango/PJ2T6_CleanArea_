@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  ClenaArea
+//  CleanArea
 //
 //  Created by 이민호 on 12/7/23.
 //

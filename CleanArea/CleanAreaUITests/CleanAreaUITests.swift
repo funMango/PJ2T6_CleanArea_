@@ -1,13 +1,13 @@
 //
-//  ClenaAreaUITests.swift
-//  ClenaAreaUITests
+//  CleanAreaUITests.swift
+//  CleanAreaUITests
 //
 //  Created by 이민호 on 12/7/23.
 //
 
 import XCTest
 
-final class ClenaAreaUITests: XCTestCase {
+final class CleanAreaUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
